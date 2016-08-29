@@ -1,2 +1,5 @@
 # hello-world
-Just a common repo
+
+Hi
+
+I like Java Programming and Python Programming.
